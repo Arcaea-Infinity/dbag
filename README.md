@@ -26,11 +26,11 @@ you could consider using DBAG license.
 
      Being a Guy includes - but is not limited to - the following instances:
 
-   1a. Modify the original work adding useless code, or inlines, to make it hard to reverse -
-   although knowing it will be reversed anyway - wasting time on both sides, that's REALLY being a Guy.
+       1a. Modify the original work adding useless code, or inlines, to make it hard to reverse -
+       although knowing it will be reversed anyway - wasting time on both sides, that's REALLY being a Guy.
    
-   1b. As a developer, you should care (about your work and users). 
-   Ignoring it by simply reply "I don't care" would make you a PROPER Guy.
+       1b. As a developer, you should care (about your work and users). 
+       Ignoring it by simply reply "I don't care" would make you a PROPER Guy.
 
  2. If your user have some opinions about your work, at lease take a look. 
  Only a RUDE Guy would reply with "Who cares" without mind in brain.
