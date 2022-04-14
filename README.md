@@ -39,20 +39,20 @@ you could consider using DBAG license.
  By giving your users some 100 requests per day calling it "limited API" would make you an MISERLY Guy.
 
  3. Commercial use is allowed - but make sure you have reasonable price. $30 for 510 credits and $68 for 1020 credits
- makes you a CRIME-COMMITING Guy. Remember that pricing style is considered illegal in many countries.
+ makes you a CRIME-COMMITING Guy. Remember that pricing style is considered to be illegal in many countries.
 
- 4. Code is provided with no warranty. However sometimes, you should go fix some security.
- When you want security, do it yourself before claming "We have upgraded security".
+ 4. Code is provided with no warranty. However sometimes, you should go fix some security youself.
+ When you want security, make sure it is secure enough before claming "We have upgraded security".
  Half-verify user requests allowing someone to upload unreasonble values like `1.7976931348623157e+308`
  would make you a DONKEY Guy.
  
- 5. Never play joke on your teammate. Simply consider someone's work as 'bad' would make you
+ 5. Never play joke on your teammate. Simply consider someone's work as 'bad' on public chatrooms would make you
  a IMPOLITE Guy. Do it your self instead of talking it.
  
  6. User who paid a lot, test and provide you security infos are your friends. 
  Banning their accounts by some TOC shit would make you a DICKY Guy.
 
- 7. Respect your top-players (and those who paid a lot!). Banning their accounts only based on
+ 7. Respect your top-players (also are those who paid a lot!). Banning their accounts only based on
  some gossips, that's really make you a BASTARD Guy.
 
 
