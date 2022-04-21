@@ -38,7 +38,7 @@ you could consider using DBAG license.
  3. When you make some API related projects, make sure your users could have reasonable quota.
  By giving your users some 100 requests per day calling it "limited API" would make you an MISERLY Guy.
 
- 3. Commercial use is allowed - but make sure you have reasonable price. $30 for 510 credits and $68 for 1020 credits
+ 3. Commercial use is allowed - but make sure you have reasonable price. $30 for 510 potatoes and $68 for 1020 potatoes
  makes you a CRIME-COMMITING Guy. Remember that pricing style is considered to be illegal in many countries.
 
  4. Code is provided with no warranty. However sometimes, you should go fix some security youself.
